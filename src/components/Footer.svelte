@@ -18,7 +18,7 @@
                             />
                         </svg></span
                     >
-                    oleh <a href="https://instagram.com/ikyxyzu">Rifky Maulana</a>
+                    oleh <a href="https://instagram.com/xxflsky">Rifky Maulana</a>
                 </p>
             </div>
         </div>
